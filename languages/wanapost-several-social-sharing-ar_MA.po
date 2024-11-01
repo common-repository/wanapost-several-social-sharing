@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WanaPost Several Social Sharing v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-29 01:24:40+0000\n"
+"Last-Translator: Mohammed BELAADEL <contact@lyscreation.net>\n"
+"Language-Team: Mohammed BELAADEL <info@belaadel.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: MOROCCO\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/class-admin.php:62
+#@ default
+msgid "Settings"
+msgstr "إعدادات"
+
+#: includes/settings-page.php:17
+#@ wanapost_several_social_sharing
+msgid "Social share button"
+msgstr "زر المشاركة الأجتماعي"
+
+#: includes/settings-page.php:20
+#@ wanapost_several_social_sharing
+msgid "Wanapost"
+msgstr "Wanapost"
+
+#: includes/settings-page.php:32
+#@ wanapost_several_social_sharing
+msgid "Social Icon Position"
+msgstr "تموقع أيقونة الاجتماعية"
+
+#: includes/settings-page.php:41
+#@ wanapost_several_social_sharing
+msgid "Text before Sharing buttons"
+msgstr "النص قبل أزرار مشاركة"
+
+#: includes/settings-page.php:47
+#@ wanapost_several_social_sharing
+msgid "Text Position"
+msgstr "موقع النص"
+
+#: includes/settings-page.php:50
+#@ wanapost_several_social_sharing
+msgid "Left"
+msgstr "يسار"
+
+#: includes/settings-page.php:51
+#@ wanapost_several_social_sharing
+msgid "Right"
+msgstr "يمين"
+
+#: includes/settings-page.php:52
+#@ wanapost_several_social_sharing
+msgid "Top"
+msgstr "أعلى"
+
+#: includes/settings-page.php:53
+#@ wanapost_several_social_sharing
+msgid "Bottom"
+msgstr "أسفل"
+
+#: includes/settings-page.php:58
+#@ wanapost_several_social_sharing
+msgid "Default share image"
+msgstr "صورة المشاركة الافتراضية"
+
+#: includes/settings-page.php:60
+#@ wanapost_several_social_sharing
+msgid "Upload"
+msgstr "إرفع/تحميل"
+
+#: includes/settings-page.php:61
+#@ wanapost_several_social_sharing
+msgid "Remove"
+msgstr "إزالة"
+
+#: includes/settings-page.php:62
+#@ wanapost_several_social_sharing
+msgid "Required for Pinterest"
+msgstr "مطلوب للموقع بنترست Pinterest"
+
+#: includes/settings-page.php:64
+#: includes/settings-page.php:67
+#@ wanapost_several_social_sharing
+msgid "Default Blank share image"
+msgstr "صورة المشاركة الافتراضية الفارغة"
+
+#: includes/settings-page.php:68
+#@ wanapost_several_social_sharing
+msgid "Remote generated image"
+msgstr "صورة مستحدثة عن بعد"
+
+#: includes/settings-page.php:70
+#@ wanapost_several_social_sharing
+msgid "Use a generated image for Pinterest if blank image is used"
+msgstr "استخدام صورة مستحدثة عن بعد لموقع Pinterest إذا تم استخدام صورة فارغة"
+
+#: includes/settings-page.php:74
+#@ wanapost_several_social_sharing
+msgid "Default Background Sizes"
+msgstr "أحجام الخلفية الافتراضية"
+
+#: includes/settings-page.php:76
+#@ wanapost_several_social_sharing
+msgid "Default Background icon Size"
+msgstr "الحجم الافتراضي لأيقونة الخلفية"
+
+#: includes/settings-page.php:85
+#@ wanapost_several_social_sharing
+msgid "Default Background color Size"
+msgstr "الحجم الافتراضي لون الخلفية"
+
+#: includes/settings-page.php:97
+#@ wanapost_several_social_sharing
+msgid "Default Background Border radius"
+msgstr "قطر حدود الخلفية الافتراضي"
+
+#: includes/settings-page.php:107
+#@ wanapost_several_social_sharing
+msgid "Load plugin scripts"
+msgstr "تحميل البرنامج المساعد"
+
+#: includes/settings-page.php:109
+#@ wanapost_several_social_sharing
+msgid "Load Share button CSS"
+msgstr "تحميل زر مشاركة CSS"
+
+#: includes/settings-page.php:110
+#@ wanapost_several_social_sharing
+msgid "Use Popup to share links"
+msgstr "استخدام قافزة إلى روابط التبادل"
+
+#: includes/settings-page.php:116
+#@ wanapost_several_social_sharing
+msgid "Automatically add sharing links?"
+msgstr "إضافة روابط المشاركة تلقائيا؟"
+
+#: includes/settings-page.php:123
+#, php-format
+#@ wanapost_several_social_sharing
+msgid " Auto display to %s"
+msgstr " عرض تلقائي إلى %s"
+
+#: includes/settings-page.php:128
+#@ wanapost_several_social_sharing
+msgid "Automatically add the sharing links to the begining/end of the selected post types."
+msgstr "إضافة تلقائية لروابط المشاركة إلى بداية / نهاية الأنواع الاخرى للمقالات المحددة."
+
+#: includes/settings-page.php:133
+#@ wanapost_several_social_sharing
+msgid "Wanapost Username"
+msgstr "اسم المستخدم Wanapost"
+
+#: includes/settings-page.php:139
+#: includes/settings-page.php:152
+#@ wanapost_several_social_sharing
+msgid "New window"
+msgstr "نافذة جديدة"
+
+#: includes/settings-page.php:140
+#@ wanapost_several_social_sharing
+msgid "New account? Free registration to autopost on Wanapost.com"
+msgstr "حساب جديد؟ تسجيل مجاني لنشر تلقائي على Wanapost.com"
+
+#: includes/settings-page.php:153
+#@ wanapost_several_social_sharing
+msgid "Generate my keys on Wanapost.com"
+msgstr "استحداث مفاتيح على Wanapost.com"
+
+#: includes/settings-page.php:160
+#@ wanapost_several_social_sharing
+msgid ""
+"Set Public Key\n"
+" if you want to autopost on Wanapost.com."
+msgstr "تعيين مفتاح العام إذا كنت ترغب في نشر آخر مقالتك على Wanapost.com"
+
+#: includes/settings-page.php:167
+#@ wanapost_several_social_sharing
+msgid "Set Secret Key if you want to autopost on Wanapost.com."
+msgstr "تعيين مفتاح الخاص إذا كنت ترغب في نشر آخر مقالتك على Wanapost.com"
+
+#: includes/settings-page.php:175
+#@ wanapost_several_social_sharing
+msgid "Twitter Username"
+msgstr "اسم مستخدم التويتر"
+
+#: includes/settings-page.php:179
+#@ wanapost_several_social_sharing
+msgid "Set this if you want to append \"via @your Twitter Username\" to tweets."
+msgstr "ضبط هذا إذا كنت ترغب في إلحاق @اسم المستخدم الخاص بك لتويت عبر تويتر."
+
+#: includes/settings-page.php:192
+#@ wanapost_several_social_sharing
+msgid "Do not forget to create an account on Wanapost.com"
+msgstr "لا تنسى إنشاء حساب على Wanapost.com"
+
+#: includes/settings-page.php:193
+#@ wanapost_several_social_sharing
+msgid "It's completely free and it will remain."
+msgstr "انه مجاني تماما، وسوف يبقى."
+
+#: includes/settings-page.php:198
+#@ wanapost_several_social_sharing
+msgid "Register"
+msgstr "تسجيل"
+
+#: includes/settings-page.php:199
+#@ wanapost_several_social_sharing
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: includes/settings-page.php:200
+#@ wanapost_several_social_sharing
+msgid "Keys"
+msgstr "مفاتيح"
+
+#: includes/settings-page.php:202
+#@ wanapost_several_social_sharing
+msgid "Do you want to see a demo!?"
+msgstr "هل ترغب في مشاهدة عرض !؟"
+
+#: includes/settings-page.php:204
+#@ wanapost_several_social_sharing
+msgid "Demo on Wanapost.com"
+msgstr "عرض على Wanapost.com"
+
+#: includes/settings-page.php:206
+#@ wanapost_several_social_sharing
+msgid "Some other ways to support this plugin"
+msgstr "بعض الطرق الأخرى لدعم هذا البرنامج المساعد"
+
+#: includes/settings-page.php:208
+#, php-format
+#@ wanapost_several_social_sharing
+msgid "Leave a %s review on WordPress.org"
+msgstr "ترك مراجعة %s على WordPress.org"
+
+#: includes/settings-page.php:209
+#@ wanapost_several_social_sharing
+msgid "Tweet about this plugin"
+msgstr "غرد حول هذا البرنامج المساعد"
+
+#: includes/settings-page.php:210
+#@ wanapost_several_social_sharing
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr "تصوت \\\"يعمل\\\" على صفحة البرنامج المساعد WordPress.org"
+
+#: includes/settings-page.php:214
+#@ wanapost_several_social_sharing
+msgid "Looking for support?"
+msgstr "تبحث عن دعم؟"
+
+#: includes/settings-page.php:215
+#, php-format
+#@ wanapost_several_social_sharing
+msgid "Please use the %splugin support forums%s on WordPress.org."
+msgstr "الرجاء استخدام %sالمنتديات دعم البرنامج المساعد%s على WordPress.org."
+
+#: includes/settings-page.php:218
+#@ wanapost_several_social_sharing
+msgid "Credits"
+msgstr "الاعتمادات"
+
+#: includes/settings-page.php:35
+#@ wanapost_several_social_sharing
+msgid "Before Content"
+msgstr "قبل المحتوى"
+
+#: includes/settings-page.php:36
+#@ wanapost_several_social_sharing
+msgid "After Content"
+msgstr "بعد المحتوى"
+
+#: includes/settings-page.php:147
+#@ wanapost_several_social_sharing
+msgid "Set this if you want to append \"via @your Wanapost.com Username\" to autopost."
+msgstr "أضبط هذا إذا كنت ترغب في إلحاق \\\"\\عبر @اسم المستخدم الخاص بك Wanapost.com\\\"\\ للنشر التلقائي."
+
+#: includes/settings-page.php:219
+#, php-format
+#@ wp-social-sharing
+msgid "The code of this plugin was based on %sarjunjain08's plugin%s on WordPress.org."
+msgstr ""
+
